@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=MODULIQ_CFD.SchDoc|SheetNumber=2
+Record=SheetSymbol|SourceDocument=MODULIQ_CFD.SchDoc|Designator=U_SPI_IFC|SchDesignator=U_SPI_IFC|FileName=SPI_IFC.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=SPI_IFC.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=NoMainPathDocument|SourceDocument=MODULIQ_CFD.SchDoc|FileName=MODULIQ_CFD_channel.SchDoc|SheetNumber=1
